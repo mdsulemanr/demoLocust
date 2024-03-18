@@ -1,0 +1,43 @@
+[2023-08-01 20:04:38,377] A006-01283.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-08-01 20:04:38,388] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-08-01 20:05:03,536] A006-01283.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-08-01 20:05:03,537] A006-01283.local/INFO/locust.runners: All users spawned: {"myUser": 1} (1 total users)
+[2023-08-01 20:05:03,537] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:05,080] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:06,892] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:07,960] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:09,607] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:11,093] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:12,152] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:13,472] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:15,393] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:16,828] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:18,695] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:20,635] A006-01283.local/INFO/root: first log
+[2023-08-01 20:05:22,026] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:05:23,043] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-08-01 20:06:50,251] A006-01283.local/INFO/locust.main: Run time limit set to 10 seconds
+[2023-08-01 20:06:50,252] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-08-01 20:06:50,254] A006-01283.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-08-01 20:06:50,254] A006-01283.local/INFO/locust.runners: All users spawned: {"myUser": 1} (1 total users)
+[2023-08-01 20:06:50,254] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:06:51,673] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:06:53,077] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:06:54,872] A006-01283.local/INFO/root: first log
+[2023-08-01 20:06:56,804] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:06:58,530] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:06:59,575] A006-01283.local/INFO/root: first log
+[2023-08-01 20:06:59,852] A006-01283.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-08-01 20:06:59,854] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-08-01 20:12:45,116] A006-01283.local/INFO/locust.main: Run time limit set to 10 seconds
+[2023-08-01 20:12:45,117] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-08-01 20:12:45,118] A006-01283.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-08-01 20:12:45,118] A006-01283.local/INFO/locust.runners: All users spawned: {"myUser": 1} (1 total users)
+[2023-08-01 20:12:45,118] A006-01283.local/INFO/root: first log
+[2023-08-01 20:12:46,865] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:12:48,456] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:12:50,123] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:12:51,654] A006-01283.local/INFO/root: first log
+[2023-08-01 20:12:53,263] A006-01283.local/ERROR/root: dummy error
+[2023-08-01 20:12:54,862] A006-01283.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-08-01 20:12:54,864] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)

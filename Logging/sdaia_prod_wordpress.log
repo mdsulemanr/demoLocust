@@ -1,0 +1,235 @@
+[2023-10-27 14:45:05,482] A006-01283.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-10-27 14:45:05,493] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-10-27 14:45:09,265] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_75e9ca47c6734926b50a67ed336f2366 (index 0) reported as ready. 1 workers connected.
+[2023-10-27 14:45:12,541] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_1cda95e37fd94dcdbf948b99c085cf95 (index 1) reported as ready. 2 workers connected.
+[2023-10-27 14:45:14,987] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_9a8b82e3fc884308bdc5bb8f315d25e6 (index 2) reported as ready. 3 workers connected.
+[2023-10-27 14:45:17,344] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_ae080b51346947f9b731808c0cff74c4 (index 3) reported as ready. 4 workers connected.
+[2023-10-27 14:45:20,750] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_cf2bc1c024684359b5ef12eb9ee094f2 (index 4) reported as ready. 5 workers connected.
+[2023-10-27 14:45:31,911] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_98260df8a293419882d1249bd02da16d (index 5) reported as ready. 6 workers connected.
+[2023-10-27 14:45:43,750] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 5000 users at 50.00 spawn rate to 6 ready workers
+[2023-10-27 14:47:23,065] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 5000} (5000 total users)
+[2023-10-27 14:48:04,620] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_9a8b82e3fc884308bdc5bb8f315d25e6 (index 2) reported that it has stopped, removing from running workers
+[2023-10-27 14:48:04,621] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_9a8b82e3fc884308bdc5bb8f315d25e6 (index 2) reported as ready. 6 workers connected.
+[2023-10-27 14:48:04,628] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_ae080b51346947f9b731808c0cff74c4 (index 3) reported that it has stopped, removing from running workers
+[2023-10-27 14:48:04,629] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_ae080b51346947f9b731808c0cff74c4 (index 3) reported as ready. 6 workers connected.
+[2023-10-27 14:48:04,633] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_98260df8a293419882d1249bd02da16d (index 5) reported that it has stopped, removing from running workers
+[2023-10-27 14:48:04,633] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_98260df8a293419882d1249bd02da16d (index 5) reported as ready. 6 workers connected.
+[2023-10-27 14:48:04,643] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_cf2bc1c024684359b5ef12eb9ee094f2 (index 4) reported that it has stopped, removing from running workers
+[2023-10-27 14:48:04,644] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_cf2bc1c024684359b5ef12eb9ee094f2 (index 4) reported as ready. 6 workers connected.
+[2023-10-27 14:48:04,660] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_75e9ca47c6734926b50a67ed336f2366 (index 0) reported that it has stopped, removing from running workers
+[2023-10-27 14:48:04,660] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_75e9ca47c6734926b50a67ed336f2366 (index 0) reported as ready. 6 workers connected.
+[2023-10-27 14:48:04,674] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_1cda95e37fd94dcdbf948b99c085cf95 (index 1) reported that it has stopped, removing from running workers
+[2023-10-27 14:48:04,674] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_1cda95e37fd94dcdbf948b99c085cf95 (index 1) reported as ready. 6 workers connected.
+[2023-10-27 14:50:31,672] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 500 users at 10.00 spawn rate to 6 ready workers
+[2023-10-27 14:51:05,850] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_cf2bc1c024684359b5ef12eb9ee094f2 (index 4) reported that it has stopped, removing from running workers
+[2023-10-27 14:51:05,850] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_cf2bc1c024684359b5ef12eb9ee094f2 (index 4) reported as ready. 6 workers connected.
+[2023-10-27 14:51:05,852] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_98260df8a293419882d1249bd02da16d (index 5) reported that it has stopped, removing from running workers
+[2023-10-27 14:51:05,852] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_98260df8a293419882d1249bd02da16d (index 5) reported as ready. 6 workers connected.
+[2023-10-27 14:51:05,853] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_ae080b51346947f9b731808c0cff74c4 (index 3) reported that it has stopped, removing from running workers
+[2023-10-27 14:51:05,853] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_ae080b51346947f9b731808c0cff74c4 (index 3) reported as ready. 6 workers connected.
+[2023-10-27 14:51:05,853] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_1cda95e37fd94dcdbf948b99c085cf95 (index 1) reported that it has stopped, removing from running workers
+[2023-10-27 14:51:05,854] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_1cda95e37fd94dcdbf948b99c085cf95 (index 1) reported as ready. 6 workers connected.
+[2023-10-27 14:51:05,854] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_9a8b82e3fc884308bdc5bb8f315d25e6 (index 2) reported that it has stopped, removing from running workers
+[2023-10-27 14:51:05,854] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_9a8b82e3fc884308bdc5bb8f315d25e6 (index 2) reported as ready. 6 workers connected.
+[2023-10-27 14:51:05,855] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_75e9ca47c6734926b50a67ed336f2366 (index 0) reported that it has stopped, removing from running workers
+[2023-10-27 14:51:05,855] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_75e9ca47c6734926b50a67ed336f2366 (index 0) reported as ready. 6 workers connected.
+[2023-10-27 14:51:13,013] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_cf2bc1c024684359b5ef12eb9ee094f2' (index 4) quit. 5 workers ready.
+[2023-10-27 14:51:13,014] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_ae080b51346947f9b731808c0cff74c4' (index 3) quit. 4 workers ready.
+[2023-10-27 14:51:13,014] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_98260df8a293419882d1249bd02da16d' (index 5) quit. 3 workers ready.
+[2023-10-27 14:51:13,015] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_75e9ca47c6734926b50a67ed336f2366' (index 0) quit. 2 workers ready.
+[2023-10-27 14:51:13,015] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_1cda95e37fd94dcdbf948b99c085cf95' (index 1) quit. 1 workers ready.
+[2023-10-27 14:51:13,015] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_9a8b82e3fc884308bdc5bb8f315d25e6' (index 2) quit. 0 workers ready.
+[2023-10-27 14:51:13,015] A006-01283.local/INFO/locust.runners: The last worker quit, stopping test.
+[2023-10-27 14:51:13,514] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-10-27 14:51:17,426] A006-01283.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-10-27 14:51:17,439] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-10-27 14:51:19,597] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_e403e12a2bb4434ba38ce4e5f45cc87d (index 0) reported as ready. 1 workers connected.
+[2023-10-27 14:51:21,813] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_57d3713a1daa459a8239fd273fd4d030 (index 1) reported as ready. 2 workers connected.
+[2023-10-27 14:51:24,039] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_656d3d6798e545918a0b6f68725af63b (index 2) reported as ready. 3 workers connected.
+[2023-10-27 14:51:31,141] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_a60b498fb5b0428e9fbb20ad04f89a03 (index 3) reported as ready. 4 workers connected.
+[2023-10-27 14:51:33,404] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_ae3c1e2788dc400381705f51a2e6b6c7 (index 4) reported as ready. 5 workers connected.
+[2023-10-27 14:51:46,295] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_95d64793c99546788b64204d4becb42b (index 5) reported as ready. 6 workers connected.
+[2023-10-27 14:51:55,378] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 500 users at 10.00 spawn rate to 6 ready workers
+[2023-10-27 14:52:44,587] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 500} (500 total users)
+[2023-10-27 14:53:34,129] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 1000 users at 15.00 spawn rate to 6 ready workers
+[2023-10-27 14:54:07,273] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 1000} (1000 total users)
+[2023-10-27 14:55:18,782] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 1500 users at 15.00 spawn rate to 6 ready workers
+[2023-10-27 14:55:51,953] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 1500} (1500 total users)
+[2023-10-27 14:57:41,894] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 2000 users at 15.00 spawn rate to 6 ready workers
+[2023-10-27 14:58:15,100] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 2000} (2000 total users)
+[2023-10-27 14:59:11,952] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 2500 users at 15.00 spawn rate to 6 ready workers
+[2023-10-27 14:59:45,128] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 2500} (2500 total users)
+[2023-10-27 15:01:41,640] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_ae3c1e2788dc400381705f51a2e6b6c7 (index 4) reported that it has stopped, removing from running workers
+[2023-10-27 15:01:41,652] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_ae3c1e2788dc400381705f51a2e6b6c7 (index 4) reported as ready. 6 workers connected.
+[2023-10-27 15:01:41,652] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_e403e12a2bb4434ba38ce4e5f45cc87d (index 0) reported that it has stopped, removing from running workers
+[2023-10-27 15:01:41,652] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_656d3d6798e545918a0b6f68725af63b (index 2) reported that it has stopped, removing from running workers
+[2023-10-27 15:01:41,652] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_95d64793c99546788b64204d4becb42b (index 5) reported that it has stopped, removing from running workers
+[2023-10-27 15:01:41,653] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_e403e12a2bb4434ba38ce4e5f45cc87d (index 0) reported as ready. 4 workers connected.
+[2023-10-27 15:01:41,653] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_656d3d6798e545918a0b6f68725af63b (index 2) reported as ready. 5 workers connected.
+[2023-10-27 15:01:41,654] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_95d64793c99546788b64204d4becb42b (index 5) reported as ready. 6 workers connected.
+[2023-10-27 15:01:41,654] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_a60b498fb5b0428e9fbb20ad04f89a03 (index 3) reported that it has stopped, removing from running workers
+[2023-10-27 15:01:41,654] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_57d3713a1daa459a8239fd273fd4d030 (index 1) reported that it has stopped, removing from running workers
+[2023-10-27 15:01:41,654] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_57d3713a1daa459a8239fd273fd4d030 (index 1) reported as ready. 5 workers connected.
+[2023-10-27 15:01:41,655] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_a60b498fb5b0428e9fbb20ad04f89a03 (index 3) reported as ready. 6 workers connected.
+[2023-10-27 15:27:02,024] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_ae3c1e2788dc400381705f51a2e6b6c7' (index 4) quit. 5 workers ready.
+[2023-10-27 15:27:02,025] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_e403e12a2bb4434ba38ce4e5f45cc87d' (index 0) quit. 4 workers ready.
+[2023-10-27 15:27:02,025] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_656d3d6798e545918a0b6f68725af63b' (index 2) quit. 3 workers ready.
+[2023-10-27 15:27:02,026] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_95d64793c99546788b64204d4becb42b' (index 5) quit. 2 workers ready.
+[2023-10-27 15:27:02,026] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_57d3713a1daa459a8239fd273fd4d030' (index 1) quit. 1 workers ready.
+[2023-10-27 15:27:02,026] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_a60b498fb5b0428e9fbb20ad04f89a03' (index 3) quit. 0 workers ready.
+[2023-10-27 15:27:02,027] A006-01283.local/INFO/locust.runners: The last worker quit, stopping test.
+[2023-10-27 15:27:02,526] A006-01283.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-10-28 14:09:29,722] A006-01283.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-10-28 14:09:29,734] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-10-28 14:09:47,129] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_3b9189d52aaf42d58844db11fedd5b5a (index 0) reported as ready. 1 workers connected.
+[2023-10-28 14:10:23,204] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_5a9d88e1387d4c62b2c1f2b5a1aa8d6d (index 1) reported as ready. 2 workers connected.
+[2023-10-28 14:10:27,931] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_7d42fa67b0534ca7a6e873e0322d74f5 (index 2) reported as ready. 3 workers connected.
+[2023-10-28 14:10:31,776] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_b9cde6f2128d4e4c875f157897bbd645 (index 3) reported as ready. 4 workers connected.
+[2023-10-28 14:10:35,656] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_345db374a05249bf86528444fce312e7 (index 4) reported as ready. 5 workers connected.
+[2023-10-28 14:12:36,202] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 50 users at 5.00 spawn rate to 5 ready workers
+[2023-10-28 14:12:45,296] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 50} (50 total users)
+[2023-10-28 14:14:10,364] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 100 users at 5.00 spawn rate to 5 ready workers
+[2023-10-28 14:14:19,499] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 100} (100 total users)
+[2023-10-28 14:15:18,272] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 500 users at 10.00 spawn rate to 5 ready workers
+[2023-10-28 14:15:57,416] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 500} (500 total users)
+[2023-10-28 14:16:24,512] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 1000 users at 20.00 spawn rate to 5 ready workers
+[2023-10-28 14:16:48,624] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 1000} (1000 total users)
+[2023-10-28 14:17:15,243] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 2000 users at 20.00 spawn rate to 5 ready workers
+[2023-10-28 14:18:04,492] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 2000} (2000 total users)
+[2023-10-28 14:18:29,935] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 3000 users at 20.00 spawn rate to 5 ready workers
+[2023-10-28 14:19:19,217] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 3000} (3000 total users)
+[2023-10-28 14:20:15,364] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 4000 users at 20.00 spawn rate to 5 ready workers
+[2023-10-28 14:21:04,520] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 4000} (4000 total users)
+[2023-10-28 14:21:41,909] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 5000 users at 20.00 spawn rate to 5 ready workers
+[2023-10-28 14:22:31,102] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 5000} (5000 total users)
+[2023-10-28 14:23:13,214] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 6000 users at 20.00 spawn rate to 5 ready workers
+[2023-10-28 14:24:02,410] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 6000} (6000 total users)
+[2023-10-28 14:25:29,382] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 7000 users at 20.00 spawn rate to 5 ready workers
+[2023-10-28 14:26:18,625] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 7000} (7000 total users)
+[2023-10-28 14:27:51,816] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 8000 users at 20.00 spawn rate to 5 ready workers
+[2023-10-28 14:28:41,049] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 8000} (8000 total users)
+[2023-10-28 14:31:13,594] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 10000 users at 50.00 spawn rate to 5 ready workers
+[2023-10-28 14:31:52,800] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 10000} (10000 total users)
+[2023-10-28 14:35:24,462] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 12000 users at 50.00 spawn rate to 5 ready workers
+[2023-10-28 14:36:03,641] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 12000} (12000 total users)
+[2023-10-28 14:39:59,637] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 12000 users at 50.00 spawn rate to 6 ready workers
+[2023-10-28 14:39:59,640] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 12000} (12000 total users)
+[2023-10-28 14:39:59,641] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_210a9df40b0841138b87c8cc54cfc146 (index 5) reported as ready. 6 workers connected.
+[2023-10-28 14:40:04,676] A006-01283.local/WARNING/locust.runners: Worker A006-01283.local_210a9df40b0841138b87c8cc54cfc146 (index 5) exceeded cpu threshold (will only log this once per worker)
+[2023-10-28 14:48:31,162] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 14000 users at 50.00 spawn rate to 6 ready workers
+[2023-10-28 14:49:10,599] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 14000} (14000 total users)
+[2023-10-28 15:06:45,728] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 10000 users at 50.00 spawn rate to 6 ready workers
+[2023-10-28 15:08:05,328] A006-01283.local/INFO/locust.runners: All users spawned: {"NavigateCategory": 10000} (10000 total users)
+[2023-10-28 15:45:06,306] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_210a9df40b0841138b87c8cc54cfc146 (index 5) reported that it has stopped, removing from running workers
+[2023-10-28 15:45:06,311] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_210a9df40b0841138b87c8cc54cfc146 (index 5) reported as ready. 6 workers connected.
+[2023-10-28 15:45:08,447] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_b9cde6f2128d4e4c875f157897bbd645 (index 3) reported that it has stopped, removing from running workers
+[2023-10-28 15:45:08,451] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_b9cde6f2128d4e4c875f157897bbd645 (index 3) reported as ready. 6 workers connected.
+[2023-10-28 15:45:08,508] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_7d42fa67b0534ca7a6e873e0322d74f5 (index 2) reported that it has stopped, removing from running workers
+[2023-10-28 15:45:08,510] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_7d42fa67b0534ca7a6e873e0322d74f5 (index 2) reported as ready. 6 workers connected.
+[2023-10-28 15:45:08,613] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_345db374a05249bf86528444fce312e7 (index 4) reported that it has stopped, removing from running workers
+[2023-10-28 15:45:08,613] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_345db374a05249bf86528444fce312e7 (index 4) reported as ready. 6 workers connected.
+[2023-10-28 15:45:08,647] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_5a9d88e1387d4c62b2c1f2b5a1aa8d6d (index 1) reported that it has stopped, removing from running workers
+[2023-10-28 15:45:08,647] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_5a9d88e1387d4c62b2c1f2b5a1aa8d6d (index 1) reported as ready. 6 workers connected.
+[2023-10-28 15:45:08,651] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_3b9189d52aaf42d58844db11fedd5b5a (index 0) reported that it has stopped, removing from running workers
+[2023-10-28 15:45:08,652] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_3b9189d52aaf42d58844db11fedd5b5a (index 0) reported as ready. 6 workers connected.
+[2023-10-28 17:38:10,921] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_b9cde6f2128d4e4c875f157897bbd645' (index 3) quit. 5 workers ready.
+[2023-10-28 17:38:10,925] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_345db374a05249bf86528444fce312e7' (index 4) quit. 4 workers ready.
+[2023-10-28 17:38:10,925] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_3b9189d52aaf42d58844db11fedd5b5a' (index 0) quit. 3 workers ready.
+[2023-10-28 17:38:10,926] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_7d42fa67b0534ca7a6e873e0322d74f5' (index 2) quit. 2 workers ready.
+[2023-10-28 17:38:10,926] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_210a9df40b0841138b87c8cc54cfc146' (index 5) quit. 1 workers ready.
+[2023-10-28 17:38:10,926] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_5a9d88e1387d4c62b2c1f2b5a1aa8d6d' (index 1) quit. 0 workers ready.
+[2023-10-28 17:38:10,926] A006-01283.local/INFO/locust.runners: The last worker quit, stopping test.
+[2023-10-28 17:38:11,419] A006-01283.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-10-28 19:33:22,966] 192.168.10.16/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-10-28 19:33:22,984] 192.168.10.16/INFO/locust.main: Starting Locust 2.15.1
+[2023-10-28 19:33:26,464] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported as ready. 1 workers connected.
+[2023-10-28 19:33:29,465] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported as ready. 2 workers connected.
+[2023-10-28 19:33:31,565] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported as ready. 3 workers connected.
+[2023-10-28 19:33:33,591] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported as ready. 4 workers connected.
+[2023-10-28 19:33:35,393] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported as ready. 5 workers connected.
+[2023-10-28 19:33:37,301] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported as ready. 6 workers connected.
+[2023-10-28 19:33:53,426] 192.168.10.16/INFO/locust.runners: Sending spawn jobs of 10000 users at 100.00 spawn rate to 6 ready workers
+[2023-10-28 19:34:07,035] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:07,039] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported as ready. 6 workers connected.
+[2023-10-28 19:34:07,049] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:07,050] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported as ready. 6 workers connected.
+[2023-10-28 19:34:07,052] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:07,053] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported as ready. 6 workers connected.
+[2023-10-28 19:34:07,057] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:07,058] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported as ready. 6 workers connected.
+[2023-10-28 19:34:07,060] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:07,061] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported as ready. 6 workers connected.
+[2023-10-28 19:34:07,063] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:07,064] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported as ready. 6 workers connected.
+[2023-10-28 19:34:16,759] 192.168.10.16/INFO/locust.runners: Sending spawn jobs of 5000 users at 50.00 spawn rate to 6 ready workers
+[2023-10-28 19:34:35,419] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:35,421] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported as ready. 6 workers connected.
+[2023-10-28 19:34:35,425] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:35,425] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported as ready. 6 workers connected.
+[2023-10-28 19:34:35,425] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:35,426] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported as ready. 6 workers connected.
+[2023-10-28 19:34:35,427] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:35,428] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported as ready. 6 workers connected.
+[2023-10-28 19:34:35,429] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:35,429] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported as ready. 6 workers connected.
+[2023-10-28 19:34:35,430] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported that it has stopped, removing from running workers
+[2023-10-28 19:34:35,431] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported as ready. 6 workers connected.
+[2023-10-28 19:34:42,415] 192.168.10.16/INFO/locust.runners: Sending spawn jobs of 2500 users at 50.00 spawn rate to 6 ready workers
+[2023-10-28 19:35:31,683] 192.168.10.16/INFO/locust.runners: All users spawned: {"NavigateCategory": 2500} (2500 total users)
+[2023-10-28 19:36:27,763] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported that it has stopped, removing from running workers
+[2023-10-28 19:36:27,765] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported as ready. 6 workers connected.
+[2023-10-28 19:36:27,777] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported that it has stopped, removing from running workers
+[2023-10-28 19:36:27,778] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported as ready. 6 workers connected.
+[2023-10-28 19:36:27,781] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported that it has stopped, removing from running workers
+[2023-10-28 19:36:27,781] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported as ready. 6 workers connected.
+[2023-10-28 19:36:27,783] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported that it has stopped, removing from running workers
+[2023-10-28 19:36:27,783] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported as ready. 6 workers connected.
+[2023-10-28 19:36:27,787] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported that it has stopped, removing from running workers
+[2023-10-28 19:36:27,788] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported as ready. 6 workers connected.
+[2023-10-28 19:36:27,823] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported that it has stopped, removing from running workers
+[2023-10-28 19:36:27,824] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported as ready. 6 workers connected.
+[2023-10-28 19:36:35,816] 192.168.10.16/INFO/locust.runners: Sending spawn jobs of 500 users at 10.00 spawn rate to 6 ready workers
+[2023-10-28 19:37:20,077] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported that it has stopped, removing from running workers
+[2023-10-28 19:37:20,077] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported as ready. 6 workers connected.
+[2023-10-28 19:37:20,079] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported that it has stopped, removing from running workers
+[2023-10-28 19:37:20,080] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported as ready. 6 workers connected.
+[2023-10-28 19:37:20,080] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported that it has stopped, removing from running workers
+[2023-10-28 19:37:20,081] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported as ready. 6 workers connected.
+[2023-10-28 19:37:20,081] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported that it has stopped, removing from running workers
+[2023-10-28 19:37:20,082] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported as ready. 6 workers connected.
+[2023-10-28 19:37:20,083] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported that it has stopped, removing from running workers
+[2023-10-28 19:37:20,084] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported as ready. 6 workers connected.
+[2023-10-28 19:37:20,085] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported that it has stopped, removing from running workers
+[2023-10-28 19:37:20,086] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported as ready. 6 workers connected.
+[2023-10-28 19:37:48,731] 192.168.10.16/INFO/locust.runners: Sending spawn jobs of 1 users at 1.00 spawn rate to 6 ready workers
+[2023-10-28 19:37:48,869] 192.168.10.16/INFO/locust.runners: All users spawned: {"NavigateCategory": 1} (1 total users)
+[2023-10-28 19:38:10,721] 192.168.10.16/INFO/locust.runners: Sending spawn jobs of 10 users at 1.00 spawn rate to 6 ready workers
+[2023-10-28 19:38:18,897] 192.168.10.16/INFO/locust.runners: All users spawned: {"NavigateCategory": 10} (10 total users)
+[2023-10-28 19:39:39,489] 192.168.10.16/INFO/locust.runners: Sending spawn jobs of 50 users at 2.00 spawn rate to 6 ready workers
+[2023-10-28 19:39:58,580] 192.168.10.16/INFO/locust.runners: All users spawned: {"NavigateCategory": 50} (50 total users)
+[2023-10-28 19:40:31,972] 192.168.10.16/INFO/locust.runners: Sending spawn jobs of 100 users at 2.00 spawn rate to 6 ready workers
+[2023-10-28 19:40:36,549] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported that it has stopped, removing from running workers
+[2023-10-28 19:40:36,550] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported that it has stopped, removing from running workers
+[2023-10-28 19:40:36,550] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584 (index 4) reported as ready. 5 workers connected.
+[2023-10-28 19:40:36,551] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_73c093c98b07424993d1e5a17ca7940c (index 5) reported as ready. 6 workers connected.
+[2023-10-28 19:40:36,551] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported that it has stopped, removing from running workers
+[2023-10-28 19:40:36,551] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported that it has stopped, removing from running workers
+[2023-10-28 19:40:36,551] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported that it has stopped, removing from running workers
+[2023-10-28 19:40:36,551] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported that it has stopped, removing from running workers
+[2023-10-28 19:40:36,552] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_be8a43800ab44d28a272202d2adad68a (index 0) reported as ready. 3 workers connected.
+[2023-10-28 19:40:36,552] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_e4e88133e840497f9851887ffb852583 (index 1) reported as ready. 4 workers connected.
+[2023-10-28 19:40:36,553] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb (index 2) reported as ready. 5 workers connected.
+[2023-10-28 19:40:36,553] 192.168.10.16/INFO/locust.runners: Worker 192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273 (index 3) reported as ready. 6 workers connected.
+[2023-10-28 19:40:51,915] 192.168.10.16/INFO/locust.runners: Worker '192.168.10.16_5fb5ad47bcc24eefa7053c0ba711eccb' (index 2) quit. 5 workers ready.
+[2023-10-28 19:40:51,916] 192.168.10.16/INFO/locust.runners: Worker '192.168.10.16_8fa9256ff08448eb8a15015e8f5b6273' (index 3) quit. 4 workers ready.
+[2023-10-28 19:40:51,916] 192.168.10.16/INFO/locust.runners: Worker '192.168.10.16_73c093c98b07424993d1e5a17ca7940c' (index 5) quit. 3 workers ready.
+[2023-10-28 19:40:51,917] 192.168.10.16/INFO/locust.runners: Worker '192.168.10.16_be8a43800ab44d28a272202d2adad68a' (index 0) quit. 2 workers ready.
+[2023-10-28 19:40:51,917] 192.168.10.16/INFO/locust.runners: Worker '192.168.10.16_e4e88133e840497f9851887ffb852583' (index 1) quit. 1 workers ready.
+[2023-10-28 19:40:51,917] 192.168.10.16/INFO/locust.runners: Worker '192.168.10.16_8bb1d49d7d6c4690927d2bfe5d25e584' (index 4) quit. 0 workers ready.
+[2023-10-28 19:40:51,918] 192.168.10.16/INFO/locust.runners: The last worker quit, stopping test.
+[2023-10-28 19:40:52,416] 192.168.10.16/INFO/locust.main: Shutting down (exit code 1)
+[2023-11-23 21:03:27,798] 192.168.10.9/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-11-23 21:03:27,809] 192.168.10.9/INFO/locust.main: Starting Locust 2.15.1
+[2023-11-23 21:03:50,719] 192.168.10.9/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-11-23 21:03:54,733] 192.168.10.9/INFO/locust.runners: All users spawned: {"NavigateCategory": 5} (5 total users)
+[2023-11-23 21:04:33,382] 192.168.10.9/INFO/locust.main: Shutting down (exit code 1)

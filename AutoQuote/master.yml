@@ -1,0 +1,12 @@
+# locust config command options
+# command: locust --config=AutoQuote/locust.yml
+
+locustfile = AutoQuote/nested_taskset.py
+host =  https://demo.borland.com
+master = true
+expect-workers = 2
+users = 20
+spawn-rate = 5
+headless = true
+run-time = 30s
+logfile = AutoQuote/run.log

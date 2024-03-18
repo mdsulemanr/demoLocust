@@ -1,0 +1,10 @@
+# locust config command options
+# command: locust --config=AutoQuote/locust.yml
+
+locustfile = AutoQuote/nested_taskset.py
+host =  https://demo.borland.com
+
+# worker configurations
+worker = true
+master-host = 127.0.0.1
+master-port = 5557

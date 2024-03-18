@@ -1,0 +1,83 @@
+[2023-12-05 15:13:18,274] A006-01283.local/INFO/locust.main: Run time limit set to 30 seconds
+[2023-12-05 15:13:18,275] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-12-05 15:13:18,277] A006-01283.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-12-05 15:13:18,278] A006-01283.local/INFO/locust.runners: All users spawned: {"MyUser": 1} (1 total users)
+[2023-12-05 15:13:25,588] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-12-05 15:22:56,748] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:22:57,753] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:22:58,753] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:22:59,759] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:00,759] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:01,761] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:02,762] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:03,768] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:04,768] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:05,773] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:06,774] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:07,778] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:08,782] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:09,786] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:10,790] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:11,792] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:12,793] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:13,795] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:14,796] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:15,801] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:16,805] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:17,810] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:18,815] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:19,819] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:20,824] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:21,828] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:22,830] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:23,832] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:24,837] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:25,838] A006-01283.local/INFO/root: Waiting for workers to be ready, 0 of 2 connected
+[2023-12-05 15:23:26,620] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_275c952841e240f0a9c25957b31e8e93 (index 0) reported as ready. 1 workers connected.
+[2023-12-05 15:23:26,842] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:27,846] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:28,852] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:29,857] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:30,862] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:31,866] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:32,870] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:33,874] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:34,879] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:35,883] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:36,887] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:37,892] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:38,895] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:39,900] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:40,903] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:41,907] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:42,912] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:43,916] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:44,919] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:45,924] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:46,927] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:47,932] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:48,936] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:49,942] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:50,947] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:51,952] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:52,957] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:53,959] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:54,963] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:55,966] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:56,971] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:57,976] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:58,979] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:23:59,982] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:24:00,984] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:24:01,987] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:24:02,992] A006-01283.local/INFO/root: Waiting for workers to be ready, 1 of 2 connected
+[2023-12-05 15:24:03,507] A006-01283.local/INFO/locust.runners: Worker A006-01283.local_946e121d3ee4418f904caaa0bc280087 (index 1) reported as ready. 2 workers connected.
+[2023-12-05 15:24:03,997] A006-01283.local/INFO/locust.main: Run time limit set to 30 seconds
+[2023-12-05 15:24:03,997] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-12-05 15:24:03,997] A006-01283.local/INFO/locust.runners: Sending spawn jobs of 20 users at 5.00 spawn rate to 2 ready workers
+[2023-12-05 15:24:07,097] A006-01283.local/INFO/locust.runners: All users spawned: {"MyUser": 20} (20 total users)
+[2023-12-05 15:24:33,997] A006-01283.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-12-05 15:24:34,007] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_946e121d3ee4418f904caaa0bc280087' (index 1) quit. 0 workers ready.
+[2023-12-05 15:24:34,010] A006-01283.local/INFO/locust.runners: Worker 'A006-01283.local_275c952841e240f0a9c25957b31e8e93' (index 0) quit. 0 workers ready.
+[2023-12-05 15:24:34,010] A006-01283.local/INFO/locust.runners: The last worker quit, stopping test.
+[2023-12-05 15:24:35,004] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)

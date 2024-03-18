@@ -1,0 +1,25 @@
+[2023-12-26 19:57:45,463] A006-01283.local/INFO/wordpress: ......... Initiating Load Test .......
+[2023-12-26 19:57:45,463] A006-01283.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-12-26 19:57:45,464] A006-01283.local/INFO/locust.runners: All users spawned: {"StartUser": 1} (1 total users)
+[2023-12-26 19:57:47,981] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:57:54,066] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:57:55,426] A006-01283.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-12-26 19:57:57,489] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:57:58,434] A006-01283.local/INFO/locust.runners: All users spawned: {"StartUser": 5} (5 total users)
+[2023-12-26 19:57:58,558] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:57:58,629] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:57:59,560] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:58:00,559] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:58:02,478] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:58:03,552] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:58:04,317] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:58:04,634] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:58:05,293] A006-01283.local/INFO/locust.runners: Ramping to 100 users at a rate of 10.00 per second
+[2023-12-26 19:58:06,647] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:58:08,970] A006-01283.local/INFO/wordpress: Failed to render dashboard after enrollment, Status Code: 200
+[2023-12-26 19:58:14,324] A006-01283.local/INFO/locust.runners: All users spawned: {"StartUser": 100} (100 total users)
+[2023-12-26 19:58:34,623] A006-01283.local/INFO/wordpress: ........ Load Test Completed ........
+[2023-12-26 19:58:38,345] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-12-27 12:15:18,626] A006-01283.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-12-27 12:15:18,638] A006-01283.local/INFO/locust.main: Starting Locust 2.15.1
+[2023-12-27 12:15:21,216] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)
