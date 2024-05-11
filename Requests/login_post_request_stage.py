@@ -8,12 +8,14 @@ class NavigateCategory:
         self.session = requests.Session()
 
     def get_csrf_token(self):
-        response = self.session.get("{}/".format(self.host),
-                                    allow_redirects=False)  # https://learn.sdaia.academy/csrf/api/v1/token
+        response = self.session.get("{}/login".format(self.host),
+                                    allow_redirects=False)  # https://learn.tndy.academy/csrf/api/v1/token
         if response.status_code == 302 and response.cookies['csrftoken']:
             csrftoken = response.cookies['csrftoken']
             return csrftoken
-            # print(response.cookies['csrftoken'])
+            print(response.cookies['csrftoken'])
+        else:
+            print("Failed to retrieve csrf-token")
 
     def get_base_header(self, token):
         base_header = {
@@ -38,7 +40,7 @@ class NavigateCategory:
 
     def user_login(self, headers_with_token):
         payload = {
-            'email_or_username': 'test1_learner', 'password': 'pfDB3MNShF5Tq7m'
+            'email_or_username': 'fatima.rafiq@arbisoft.com', 'password': '$fatima123456'
             # ,'next': '/dashboard'
         }
 

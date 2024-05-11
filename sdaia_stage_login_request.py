@@ -17,11 +17,11 @@ class UserLogin(SequentialTaskSet):
             'Sec-Fetch-Site': 'none',
             'Sec-Fetch-User': '?1',
             # 'X-CSRFToken': token,
-            'Origin': 'https://apps.sdaia.academy',
-            'Referer': 'https://apps.sdaia.academy',
-            'Upgrade-Insecure-AutoQuote': '1'
-            # 'Content-Type': 'application/x-www-form-urlencoded',
-            # 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
+            'Origin': 'https://apps.tndy.academy',
+            'Referer': 'https://apps.tndy.academy',
+            'Upgrade-Insecure-AutoQuote': '1',
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
         }
         return base_header_without_token
 
@@ -29,15 +29,17 @@ class UserLogin(SequentialTaskSet):
         base_header = self.get_base_header()
 
         with self.client.get("/api/user/v2/account/login_session/", catch_response=True) as response:  # https://learn.sdaia.academy/csrf/api/v1/token
+            print(response)
             if response.status_code == 200:
                 token = response.cookies['csrftoken']
                 base_header['X-CSRFToken'] = token
+                print(token)
         return base_header
 
     def on_start(self):
         base_header = self.get_base_header_with_token()
         data = {
-            'email_or_username': 'loadtesting2', 'password': 'a1b2c3d4'
+            'email_or_username': 'loadtester01', 'password': 'OneAcademy!1'
         }
 
         with self.client.post("/api/user/v2/account/login_session/", data, headers=base_header,
@@ -76,5 +78,5 @@ class UserLogin(SequentialTaskSet):
 
 class MyUser(HttpUser):
     wait_time = between(3, 4)
-    host = 'https://learn-stage.sdaia.academy'
+    host = 'https://learn-stage.tndy.academy'
     tasks = [UserLogin]

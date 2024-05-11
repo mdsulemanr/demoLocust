@@ -156,5 +156,5 @@ class WordPress(TaskSet):
 
 class NavigateCategory(HttpUser):
     host = "https://courses.tndy.academy"
-    wait_time = between(50, 60)
+    wait_time = between(15, 50)
     tasks = [WordPress]
